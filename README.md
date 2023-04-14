@@ -2,7 +2,7 @@
 📄<br>Compre Bem
 </h1>
 
-## 📚 Ebook
+## 📚 
 
 > Este repositório é um desafio técnico onde desenvolvi um site para um mercado onde tem funções de cadastro, exclusão e visualização dos produtos. 
 
