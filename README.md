@@ -22,7 +22,7 @@
 
 ## Linguagens
 
-[![HTML](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=HTML&logoColor=black&color=596CFF)]
+[![HTML](https://img.shields.io/badge/HTML%20-%23323330.svg?&style=for-the-badge&logo=HTML&logoColor=black&color=596CFF)]
 [![PHP](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&PHP=repositório&logoColor=black&color=cb0c9f)]
 [![CSS](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=CSS&logoColor=black&color=343a40)]
 [![JS](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&JS=repositório&logoColor=black&color=0dcaf0)]
